@@ -1,0 +1,10 @@
+.project
+.cache-main
+bin
+output
+src/main/resources/*.csv
+.settings
+.classpath
+target
+spark-warehouse
+project
